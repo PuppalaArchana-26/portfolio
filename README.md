@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
  Hi, I'm Archana Puppala
  
  ![Profile Banner](https://img.shields.io/badge/Portfolio-archanawork.lovable.app-blue?style=flat-square&logo=appveyor)
