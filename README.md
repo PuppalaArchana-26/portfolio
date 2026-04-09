@@ -1,8 +1,9 @@
 # portfolio
  Hi, I'm Archana Puppala
+ 
  ![Profile Banner](https://img.shields.io/badge/Portfolio-archanawork.lovable.app-blue?style=flat-square&logo=appveyor)
 
- **Portfolio:** [archanawork.lovable.app](https://archanawork.lovable.app)
+
 
 ---
 
@@ -31,13 +32,26 @@ I am a passionate software developer with a focus on web development, C#, and .N
 
 ---
 
-## 📂 Projects
+## Projects
 Here are some of my notable projects:
 
 | Project | Description | Link |
 |---------|-------------|------|
 | Portfolio Website | My personal portfolio showcasing my skills and projects | [Live](https://archanawork.lovable.app) |
 | Assignment-Repo | Collection of my academic assignments | [GitHub](https://github.com/PuppalaArchana-26) |
+
+
+## GitHub Stats
+
+![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuppalaArchana-26&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuppalaArchana-26&layout=compact&theme=radical)
+
+---
+
+## Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/PuppalaArchana-26/count.svg)
 
 ---
 
