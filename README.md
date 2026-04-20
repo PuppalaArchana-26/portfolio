@@ -60,6 +60,7 @@ Here are some of my notable projects:
 ## Contact Me
 - Email: puppalaarchana844@gmail.com
 - LinkedIn: www.linkedin.com/in/archana-puppala-776ab422a
+- Github: www.github.com/PuppalaArchana-26
 
 ---
 
