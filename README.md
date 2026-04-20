@@ -9,8 +9,11 @@
 ---
 
 ## About Me
-I am a passionate software developer with a focus on web development, C#, and .NET. I enjoy building projects that solve real-world problems and continuously learning new technologies.
+I am a networking-focused IT professional with a strong foundation in computer networking concepts such as TCP/IP, DNS, DHCP, routing, switching, and network security. My primary interest (around 90%) lies in understanding, configuring, and troubleshooting networks, ensuring reliable and secure communication between systems.
 
+Alongside networking, I also have basic experience (around 10%) in software development using C#, .NET, and web technologies, which helps me better understand how applications interact with network systems.
+
+I am passionate about building strong fundamentals in networking while continuously improving my development skills to support full system understanding.
 ---
 
 ## Skills
