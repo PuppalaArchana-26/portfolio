@@ -38,11 +38,11 @@ Here are some of my notable projects:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Portfolio Website | My personal portfolio showcasing my skills and projects | [Live](https://archanawork.lovable.app) |
-| Assignment-Repo | Collection of my academic assignments | [GitHub](https://github.com/PuppalaArchana-26) |
-|Linkedin| |[linked](https://www.linkedin.com/in/archana-puppala-776ab422a)|
+### 🔗 Links
 
-
+- 🌐 Portfolio Website — My personal portfolio showcasing my skills and projects ([Live](#))
+- 📁 Assignment Repo — Collection of my academic assignments ([GitHub](#))
+- 💼 LinkedIn — Professional profile and experience ([View Profile](https://linkedin.com/in/your-profile))
 ## GitHub Stats
 
 ![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuppalaArchana-26&show_icons=true&theme=radical)
