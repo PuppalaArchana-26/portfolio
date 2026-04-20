@@ -13,7 +13,7 @@ I am a networking-focused IT professional with a strong foundation in computer n
 
 Alongside networking, I also have basic experience (around 10%) in software development using C#, .NET, and web technologies, which helps me better understand how applications interact with network systems.
 
-I am passionate about building strong fundamentals in networking while continuously improving my development skills to support full system understanding.
+
 ---
 
 ## Skills
