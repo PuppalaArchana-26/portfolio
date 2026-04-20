@@ -21,6 +21,13 @@ I am a passionate software developer with a focus on web development, C#, and .N
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+ **Networking Skills**
+
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-555555?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network%20Security-FF6F00?style=flat-square)
+
 - **Frameworks:** .NET, ASP.NET Core
 
 - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
