@@ -55,11 +55,13 @@ Here are some of my notable projects:
 - 💼 LinkedIn — Professional profile and experience ([View Profile](https://linkedin.com/in/your-profile))
 ## GitHub Stats
 
-![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuppalaArchana-26&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PuppalaArchana-26&show_icons=true&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuppalaArchana-26&layout=compact&theme=radical)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuppalaArchana-26&layout=compact&theme=radical" />
+</p>
 
 ## Visitors
 
